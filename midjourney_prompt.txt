@@ -1,0 +1,50 @@
+=====================================================
+SILENT WALK — MIDJOURNEY IMAGE PROMPT
+Project: Silent Walk / Bladerunner Ambient 4K
+Channel: Sound Realm Studio
+=====================================================
+
+FINAL PROMPT (Photorealistic Version):
+---------------------------------------
+A lone silhouette figure walking away in the far distance along a wet snow-melted 
+sidewalk between two colossal brutalist monolithic structures at night, dystopian 
+atmosphere, real life photography, the massive buildings rise out of frame with smooth 
+featureless concrete-like alien surfaces, no signage or markings, sparse narrow windows 
+emitting a faint amber warm glow from within, dim neon accent lights embedded along the 
+building edges casting muted teal and deep orange hues, a row of low 3-foot glowing blue 
+pole lights lines the sidewalk casting cold blue reflections on the wet pavement below, 
+light snow dusting on the ground with the path cleared and reflective, figure is small 
+and distant emphasizing isolation and scale, silent lonely mood, cold foggy air with 
+volumetric light haze, extraterrestrial architectural design, ultra cinematic composition, 
+deep shadows, muted color palette with blue and amber contrast, shot on Canon R5, f/2.8, 
+ISO 3200, long exposure, photographic, Roger Deakins lighting 
+--ar 21:9 --style raw --v 6 --q 2 --no text, signs, logos, people in foreground
+
+=====================================================
+SETTINGS USED:
+---------------------------------------
+Platform:        Midjourney v6
+Aspect Ratio:    21:9 (Cinematic Widescreen)
+Style:           Raw
+Quality:         2
+Negative Prompt: no text, signs, logos, people in foreground
+Upscale:         Subtle 4K Upscale
+Final Resolution: 3840x2160 (4K Ultra HD)
+
+=====================================================
+PROMPT ENGINEERING NOTES:
+---------------------------------------
+- "real life photography" replaces "Blade Runner 2049 cinematic style" for realism
+- "shot on Canon R5, f/2.8, ISO 3200, long exposure" adds photographic authenticity
+- "Roger Deakins lighting" references the cinematographer of Blade Runner 2049
+- "--style raw" reduces Midjourney's artistic interpretation for more realistic output
+- "--no people in foreground" keeps the lone figure small and distant
+- Teal and orange palette referenced in prompt to complement manual color grade
+
+=====================================================
+WORKFLOW NOTE:
+---------------------------------------
+This prompt was engineered with the assistance of Claude AI (LLM).
+The image was then imported into DaVinci Resolve 20 for color grading,
+particle snow effects, and final video production.
+=====================================================
