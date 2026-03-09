@@ -1,0 +1,57 @@
+=====================================================
+SILENT WALK — SUNO AI MUSIC PROMPTS
+Project: Silent Walk / Bladerunner Ambient 4K
+Channel: Sound Realm Studio
+=====================================================
+
+TRACK 1 — Silent Walk
+---------------------------------------
+Title:    Silent Walk
+Platform: Suno AI v4.5
+Duration: 4:58
+
+PROMPT:
+*[ambient] [dark-ambient] [piano] [drone] [minimal] [atmospheric] [slow-evolving] 
+[instrumental] [bpm-60]*
+
+*Two-layer ambient composition. Background: deep, warm synth pad playing a slow cycle 
+of 3-4 low notes, repetitive and hypnotic, like a distant machine breathing. 
+Foreground: simple piano, just a few notes repeating with space between them, 
+melancholic and eerie, like a lone figure watching from afar. Cold atmosphere, 
+mysterious, emotionally distant. For sleeping and studying.*
+
+=====================================================
+
+TRACK 2 — Silent Walk 2
+---------------------------------------
+Title:    Silent Walk 2
+Platform: Suno AI v4.5
+Duration: 4:12
+
+PROMPT:
+*[ambient] [dark-ambient] [piano] [minimal] [atmospheric] [slow] [instrumental] 
+[bpm-60]*
+
+*Piano playing solo. Playing few notes.*
+
+=====================================================
+
+AUDIO PRODUCTION NOTES:
+---------------------------------------
+- Both tracks downloaded as MP3 (free tier)
+- Imported into DaVinci Resolve 20 Fairlight page
+- Arranged sequentially on same audio track: Track 1 > Track 2 > Track 1
+- 48-frame crossfades applied at each junction for seamless transitions
+- First 22 seconds trimmed from Track 1 intro
+- Sequence looped to fill 3 hours using doubling copy-paste method:
+  3 clips (~9 min) > 6 > 12 > 24 > 48 > 96 clips (~3 hours 12 min)
+- Timeline trimmed back to exactly 3:00:00
+- Fade in at start, fade out at end
+
+=====================================================
+WORKFLOW NOTE:
+---------------------------------------
+Music prompts were composed with the assistance of Claude AI (LLM).
+Both tracks were arranged and looped in DaVinci Resolve 20 Fairlight.
+The goal was a seamless dark ambient loop suitable for sleep, study and focus.
+=====================================================
